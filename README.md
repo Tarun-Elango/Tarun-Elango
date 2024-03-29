@@ -10,6 +10,7 @@
 
 AI Assitant for your resources. Get an AI assistants for your files or web content by uploading them. 
 Leverages a vector database paired with cosine search and a cross-encoder for re-ranking resource content, ensuring the LLM accesses highly relevant information. This application is a fully functional chatbot that can combine different resources and supports a variety of file and resource formats.
+Plus the LLM has access to the internet and a calculator agent. 
 
 **Explore it here:** [ragmatic.amicia.app](https://ragmatic.amicia.app/)
 
