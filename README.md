@@ -8,7 +8,7 @@
 
 ### 🌟 Advanced Retrieval Augmented Generation Chatbot
 
-AI Assitant for your resources. Get AI assistants for your files or web content by uploading them. 
+AI Assitant for your resources. An AI assistants for your files or web content by uploading them. 
 Leverages a vector database paired with cosine search and a cross-encoder for re-ranking resource content, ensuring the LLM accesses highly relevant information. This application is a fully functional chatbot that can combine different resources and supports a variety of file and resource formats.
 
 **Explore it here:** [ragmatic.amicia.app](https://ragmatic.amicia.app/)
