@@ -2,6 +2,7 @@
 
 ---
 
+<!--
 **🛠️ I Love Building Things! ⚙️🔧**
 
 **🖥️ Latest Creation:**
@@ -18,7 +19,6 @@ Leverages a vector database paired with cosine search and a cross-encoder for re
 I'm always open to collaboration.
 
 
-<!--
 **Tarun-Elango/Tarun-Elango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
